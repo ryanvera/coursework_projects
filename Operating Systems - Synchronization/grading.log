@@ -1,0 +1,246 @@
+========== Grading Log ==========
+Compiling using: cd /cs5348-xv6/rdv170000/P3; gcc csmc.c -Wall -Werror -lpthread -std=c99 -o csmc... 
+Compiling using: cd /cs5348-xv6/rdv170000/P3; gcc csmc.c -Wall -Werror -lpthread -o csmc... 
+Compiling using: cd /cs5348-xv6/rdv170000/P3; gcc csmc.c -o csmc -Wall -Werror -pthread -std=c99... 
+Compiling using: cd /cs5348-xv6/rdv170000/P3; gcc csmc.c -o csmc -Wall -Werror -pthread -std=gnu99... 
+Runing Test Case 1: verify if each output is atomic and correctly formatted...
+/cs5348-xv6/rdv170000/P3/test_1.output
+Runing Test Case 2: run program with (#students=10, #tutors=3, #chairs=4, #help=5) and check out-of-bound errors...
+/cs5348-xv6/rdv170000/P3/test_2.output
+	Studnets tutoring now count: 4 is invalid. It should be in range [0, 3].
+Runing Test Case 3: run program with (#students=10, #tutors=20, #chairs=100, #help=5) and check out-of-bound errors...
+/cs5348-xv6/rdv170000/P3/test_3.output
+Runing Test Case 4: run program with (#students=1, #tutors=1, #chairs=1, #help=5) and check out-of-bound errors...
+/cs5348-xv6/rdv170000/P3/test_4.output
+Runing Test Case 5: run program with (#students=50, #tutors=10, #chairs=1, #help=2) and check out-of-bound errors...
+/cs5348-xv6/rdv170000/P3/test_5.output
+Runing Test Case 6: run program with (#students=10, #tutors=3, #chairs=4, #help=5) and check <take seat, tutor confirmation> pairs...
+/cs5348-xv6/rdv170000/P3/test_6.output
+Runing Test Case 7: run program with (#students=10, #tutors=20, #chairs=100, #help=5) and check <take seat, tutor confirmation> pairs...
+/cs5348-xv6/rdv170000/P3/test_7.output
+Runing Test Case 8: run program with (#students=1, #tutors=1, #chairs=1, #help=5) and check <take seat, tutor confirmation> pairs...
+/cs5348-xv6/rdv170000/P3/test_8.output
+Runing Test Case 9: run program with (#students=50, #tutors=10, #chairs=1, #help=2) and check <take seat, tutor confirmation> pairs...
+/cs5348-xv6/rdv170000/P3/test_9.output
+	Student 13 took a seat but did not get the tutor's confirmation message after that.
+	Student 2 took a seat but did not get the tutor's confirmation message after that.
+	Student 3 took a seat but did not get the tutor's confirmation message after that.
+	Student 11 took a seat but did not get the tutor's confirmation message after that.
+	Student 19 took a seat but did not get the tutor's confirmation message after that.
+	Student 24 took a seat but did not get the tutor's confirmation message after that.
+	Student 5 took a seat but did not get the tutor's confirmation message after that.
+	Student 7 took a seat but did not get the tutor's confirmation message after that.
+	Student 27 took a seat but did not get the tutor's confirmation message after that.
+	Student 25 took a seat but did not get the tutor's confirmation message after that.
+	Student 6 took a seat but did not get the tutor's confirmation message after that.
+	Student 22 took a seat but did not get the tutor's confirmation message after that.
+Runing Test Case 10: run program with (#students=2000, #tutors=50, #chairs=200, #help=20) and check no. messages...
+/cs5348-xv6/rdv170000/P3/test_10.output
+	Total no. messages expected: 200000, got 109580 in the output.
+Runing Test Case 11: run program with (#students=2000, #tutors=50, #chairs=200, #help=20) and check <take seat, tutor confirmation> pairs...
+/cs5348-xv6/rdv170000/P3/test_11.output
+	Student 1 took a seat but did not get the tutor's confirmation message after that.
+	Student 6 took a seat but did not get the tutor's confirmation message after that.
+	Student 2 took a seat but did not get the tutor's confirmation message after that.
+	Student 3 took a seat but did not get the tutor's confirmation message after that.
+	Student 4 took a seat but did not get the tutor's confirmation message after that.
+	Student 5 took a seat but did not get the tutor's confirmation message after that.
+	Student 7 took a seat but did not get the tutor's confirmation message after that.
+	Student 9 took a seat but did not get the tutor's confirmation message after that.
+	Student 11 took a seat but did not get the tutor's confirmation message after that.
+	Student 12 took a seat but did not get the tutor's confirmation message after that.
+	Student 13 took a seat but did not get the tutor's confirmation message after that.
+	Student 14 took a seat but did not get the tutor's confirmation message after that.
+	Student 15 took a seat but did not get the tutor's confirmation message after that.
+	Student 8 took a seat but did not get the tutor's confirmation message after that.
+	Student 10 took a seat but did not get the tutor's confirmation message after that.
+	Student 16 took a seat but did not get the tutor's confirmation message after that.
+	Student 20 took a seat but did not get the tutor's confirmation message after that.
+	Student 21 took a seat but did not get the tutor's confirmation message after that.
+	Student 23 took a seat but did not get the tutor's confirmation message after that.
+	Student 19 took a seat but did not get the tutor's confirmation message after that.
+	Student 24 took a seat but did not get the tutor's confirmation message after that.
+	Student 25 took a seat but did not get the tutor's confirmation message after that.
+	Student 26 took a seat but did not get the tutor's confirmation message after that.
+	Student 17 took a seat but did not get the tutor's confirmation message after that.
+	Student 22 took a seat but did not get the tutor's confirmation message after that.
+	Student 27 took a seat but did not get the tutor's confirmation message after that.
+	Student 28 took a seat but did not get the tutor's confirmation message after that.
+	Student 29 took a seat but did not get the tutor's confirmation message after that.
+	Student 30 took a seat but did not get the tutor's confirmation message after that.
+	Student 31 took a seat but did not get the tutor's confirmation message after that.
+	Student 32 took a seat but did not get the tutor's confirmation message after that.
+	Student 33 took a seat but did not get the tutor's confirmation message after that.
+	Student 34 took a seat but did not get the tutor's confirmation message after that.
+	Student 35 took a seat but did not get the tutor's confirmation message after that.
+	Student 37 took a seat but did not get the tutor's confirmation message after that.
+	Student 38 took a seat but did not get the tutor's confirmation message after that.
+	Student 39 took a seat but did not get the tutor's confirmation message after that.
+	Student 40 took a seat but did not get the tutor's confirmation message after that.
+	Student 41 took a seat but did not get the tutor's confirmation message after that.
+	Student 42 took a seat but did not get the tutor's confirmation message after that.
+	Student 43 took a seat but did not get the tutor's confirmation message after that.
+	Student 44 took a seat but did not get the tutor's confirmation message after that.
+	Student 45 took a seat but did not get the tutor's confirmation message after that.
+	Student 46 took a seat but did not get the tutor's confirmation message after that.
+	Student 47 took a seat but did not get the tutor's confirmation message after that.
+	Student 48 took a seat but did not get the tutor's confirmation message after that.
+	Student 49 took a seat but did not get the tutor's confirmation message after that.
+	Student 50 took a seat but did not get the tutor's confirmation message after that.
+	Student 36 took a seat but did not get the tutor's confirmation message after that.
+	Student 51 took a seat but did not get the tutor's confirmation message after that.
+	Student 52 took a seat but did not get the tutor's confirmation message after that.
+	Student 53 took a seat but did not get the tutor's confirmation message after that.
+	Student 54 took a seat but did not get the tutor's confirmation message after that.
+	Student 56 took a seat but did not get the tutor's confirmation message after that.
+	Student 55 took a seat but did not get the tutor's confirmation message after that.
+	Student 57 took a seat but did not get the tutor's confirmation message after that.
+	Student 58 took a seat but did not get the tutor's confirmation message after that.
+	Student 59 took a seat but did not get the tutor's confirmation message after that.
+	Student 60 took a seat but did not get the tutor's confirmation message after that.
+	Student 61 took a seat but did not get the tutor's confirmation message after that.
+	Student 62 took a seat but did not get the tutor's confirmation message after that.
+	Student 63 took a seat but did not get the tutor's confirmation message after that.
+	Student 64 took a seat but did not get the tutor's confirmation message after that.
+	Student 65 took a seat but did not get the tutor's confirmation message after that.
+	Student 66 took a seat but did not get the tutor's confirmation message after that.
+	Student 68 took a seat but did not get the tutor's confirmation message after that.
+	Student 67 took a seat but did not get the tutor's confirmation message after that.
+	Student 69 took a seat but did not get the tutor's confirmation message after that.
+	Student 70 took a seat but did not get the tutor's confirmation message after that.
+	Student 71 took a seat but did not get the tutor's confirmation message after that.
+	Student 72 took a seat but did not get the tutor's confirmation message after that.
+	Student 75 took a seat but did not get the tutor's confirmation message after that.
+	Student 74 took a seat but did not get the tutor's confirmation message after that.
+	Student 73 took a seat but did not get the tutor's confirmation message after that.
+	Student 76 took a seat but did not get the tutor's confirmation message after that.
+	Student 78 took a seat but did not get the tutor's confirmation message after that.
+	Student 77 took a seat but did not get the tutor's confirmation message after that.
+	Student 79 took a seat but did not get the tutor's confirmation message after that.
+	Student 80 took a seat but did not get the tutor's confirmation message after that.
+	Student 82 took a seat but did not get the tutor's confirmation message after that.
+	Student 81 took a seat but did not get the tutor's confirmation message after that.
+	Student 83 took a seat but did not get the tutor's confirmation message after that.
+	Student 84 took a seat but did not get the tutor's confirmation message after that.
+	Student 85 took a seat but did not get the tutor's confirmation message after that.
+	Student 86 took a seat but did not get the tutor's confirmation message after that.
+	Student 87 took a seat but did not get the tutor's confirmation message after that.
+	Student 88 took a seat but did not get the tutor's confirmation message after that.
+	Student 90 took a seat but did not get the tutor's confirmation message after that.
+	Student 92 took a seat but did not get the tutor's confirmation message after that.
+	Student 91 took a seat but did not get the tutor's confirmation message after that.
+	Student 93 took a seat but did not get the tutor's confirmation message after that.
+	Student 95 took a seat but did not get the tutor's confirmation message after that.
+	Student 94 took a seat but did not get the tutor's confirmation message after that.
+	Student 98 took a seat but did not get the tutor's confirmation message after that.
+	Student 96 took a seat but did not get the tutor's confirmation message after that.
+	Student 97 took a seat but did not get the tutor's confirmation message after that.
+	Student 100 took a seat but did not get the tutor's confirmation message after that.
+	Student 101 took a seat but did not get the tutor's confirmation message after that.
+	Student 99 took a seat but did not get the tutor's confirmation message after that.
+	Student 102 took a seat but did not get the tutor's confirmation message after that.
+	Student 103 took a seat but did not get the tutor's confirmation message after that.
+	Student 104 took a seat but did not get the tutor's confirmation message after that.
+	Student 105 took a seat but did not get the tutor's confirmation message after that.
+	Student 106 took a seat but did not get the tutor's confirmation message after that.
+	Student 107 took a seat but did not get the tutor's confirmation message after that.
+	Student 109 took a seat but did not get the tutor's confirmation message after that.
+	Student 108 took a seat but did not get the tutor's confirmation message after that.
+	Student 110 took a seat but did not get the tutor's confirmation message after that.
+	Student 111 took a seat but did not get the tutor's confirmation message after that.
+	Student 112 took a seat but did not get the tutor's confirmation message after that.
+	Student 113 took a seat but did not get the tutor's confirmation message after that.
+	Student 114 took a seat but did not get the tutor's confirmation message after that.
+	Student 115 took a seat but did not get the tutor's confirmation message after that.
+	Student 116 took a seat but did not get the tutor's confirmation message after that.
+	Student 117 took a seat but did not get the tutor's confirmation message after that.
+	Student 118 took a seat but did not get the tutor's confirmation message after that.
+	Student 119 took a seat but did not get the tutor's confirmation message after that.
+	Student 121 took a seat but did not get the tutor's confirmation message after that.
+	Student 120 took a seat but did not get the tutor's confirmation message after that.
+	Student 122 took a seat but did not get the tutor's confirmation message after that.
+	Student 123 took a seat but did not get the tutor's confirmation message after that.
+	Student 124 took a seat but did not get the tutor's confirmation message after that.
+	Student 125 took a seat but did not get the tutor's confirmation message after that.
+	Student 126 took a seat but did not get the tutor's confirmation message after that.
+	Student 129 took a seat but did not get the tutor's confirmation message after that.
+	Student 127 took a seat but did not get the tutor's confirmation message after that.
+	Student 128 took a seat but did not get the tutor's confirmation message after that.
+	Student 130 took a seat but did not get the tutor's confirmation message after that.
+	Student 131 took a seat but did not get the tutor's confirmation message after that.
+	Student 132 took a seat but did not get the tutor's confirmation message after that.
+	Student 133 took a seat but did not get the tutor's confirmation message after that.
+	Student 134 took a seat but did not get the tutor's confirmation message after that.
+	Student 135 took a seat but did not get the tutor's confirmation message after that.
+	Student 136 took a seat but did not get the tutor's confirmation message after that.
+	Student 137 took a seat but did not get the tutor's confirmation message after that.
+	Student 138 took a seat but did not get the tutor's confirmation message after that.
+	Student 139 took a seat but did not get the tutor's confirmation message after that.
+	Student 140 took a seat but did not get the tutor's confirmation message after that.
+	Student 141 took a seat but did not get the tutor's confirmation message after that.
+	Student 143 took a seat but did not get the tutor's confirmation message after that.
+	Student 142 took a seat but did not get the tutor's confirmation message after that.
+	Student 144 took a seat but did not get the tutor's confirmation message after that.
+	Student 145 took a seat but did not get the tutor's confirmation message after that.
+	Student 146 took a seat but did not get the tutor's confirmation message after that.
+	Student 147 took a seat but did not get the tutor's confirmation message after that.
+	Student 148 took a seat but did not get the tutor's confirmation message after that.
+	Student 149 took a seat but did not get the tutor's confirmation message after that.
+	Student 150 took a seat but did not get the tutor's confirmation message after that.
+	Student 151 took a seat but did not get the tutor's confirmation message after that.
+	Student 152 took a seat but did not get the tutor's confirmation message after that.
+	Student 153 took a seat but did not get the tutor's confirmation message after that.
+	Student 154 took a seat but did not get the tutor's confirmation message after that.
+	Student 155 took a seat but did not get the tutor's confirmation message after that.
+	Student 157 took a seat but did not get the tutor's confirmation message after that.
+	Student 156 took a seat but did not get the tutor's confirmation message after that.
+	Student 158 took a seat but did not get the tutor's confirmation message after that.
+	Student 159 took a seat but did not get the tutor's confirmation message after that.
+	Student 160 took a seat but did not get the tutor's confirmation message after that.
+	Student 161 took a seat but did not get the tutor's confirmation message after that.
+	Student 163 took a seat but did not get the tutor's confirmation message after that.
+	Student 162 took a seat but did not get the tutor's confirmation message after that.
+	Student 165 took a seat but did not get the tutor's confirmation message after that.
+	Student 164 took a seat but did not get the tutor's confirmation message after that.
+	Student 166 took a seat but did not get the tutor's confirmation message after that.
+	Student 167 took a seat but did not get the tutor's confirmation message after that.
+	Student 169 took a seat but did not get the tutor's confirmation message after that.
+	Student 168 took a seat but did not get the tutor's confirmation message after that.
+	Student 170 took a seat but did not get the tutor's confirmation message after that.
+	Student 171 took a seat but did not get the tutor's confirmation message after that.
+	Student 172 took a seat but did not get the tutor's confirmation message after that.
+	Student 173 took a seat but did not get the tutor's confirmation message after that.
+	Student 176 took a seat but did not get the tutor's confirmation message after that.
+	Student 174 took a seat but did not get the tutor's confirmation message after that.
+	Student 175 took a seat but did not get the tutor's confirmation message after that.
+	Student 177 took a seat but did not get the tutor's confirmation message after that.
+	Student 179 took a seat but did not get the tutor's confirmation message after that.
+	Student 178 took a seat but did not get the tutor's confirmation message after that.
+	Student 180 took a seat but did not get the tutor's confirmation message after that.
+	Student 182 took a seat but did not get the tutor's confirmation message after that.
+	Student 181 took a seat but did not get the tutor's confirmation message after that.
+	Student 183 took a seat but did not get the tutor's confirmation message after that.
+	Student 184 took a seat but did not get the tutor's confirmation message after that.
+	Student 185 took a seat but did not get the tutor's confirmation message after that.
+	Student 186 took a seat but did not get the tutor's confirmation message after that.
+	Student 89 took a seat but did not get the tutor's confirmation message after that.
+	Student 187 took a seat but did not get the tutor's confirmation message after that.
+	Student 188 took a seat but did not get the tutor's confirmation message after that.
+	Student 189 took a seat but did not get the tutor's confirmation message after that.
+	Student 190 took a seat but did not get the tutor's confirmation message after that.
+	Student 192 took a seat but did not get the tutor's confirmation message after that.
+	Student 191 took a seat but did not get the tutor's confirmation message after that.
+	Student 193 took a seat but did not get the tutor's confirmation message after that.
+	Student 194 took a seat but did not get the tutor's confirmation message after that.
+	Student 195 took a seat but did not get the tutor's confirmation message after that.
+	Student 196 took a seat but did not get the tutor's confirmation message after that.
+	Student 197 took a seat but did not get the tutor's confirmation message after that.
+	Student 198 took a seat but did not get the tutor's confirmation message after that.
+	Student 200 took a seat but did not get the tutor's confirmation message after that.
+	Student 199 took a seat but did not get the tutor's confirmation message after that.
+	Student 202 took a seat but did not get the tutor's confirmation message after that.
+Runing Test Case 12: run program with (#students=100, #tutors=10, #chairs=100, #help=10) and check if someone cannot find chairs (should not happen)...
+/cs5348-xv6/rdv170000/P3/test_12.output
+Runing Test Case 13: run program with (#students=3, #tutors=9, #chairs=3, #help=3) and check if every tutor has tutored exactly once...
+/cs5348-xv6/rdv170000/P3/test_13.output
+	At line 28 the tutor 2 tutored again.

@@ -1,0 +1,1192 @@
+S: Student 1 takes a seat. Empty chairs = 0.
+S: Student 4 found no empty chair. Will try again later.
+C: Student 1 with priority 0 added to the queue. Waiting students now = 1. Total requests = 1
+S: Student 2 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 4 takes a seat. Empty chairs = 0.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+C: Student 4 with priority 0 added to the queue. Waiting students now = 1. Total requests = 2
+S: Student 9 found no empty chair. Will try again later.
+S: Student 1 received help from Tutor 1.
+S: Student 22 takes a seat. Empty chairs = 0.
+T: Student 1 tutored by Tutor 1. Students tutored now = 0. Total sessions tutored = 1
+C: Student 22 with priority 0 added to the queue. Waiting students now = 1. Total requests = 3
+S: Student 29 takes a seat. Empty chairs = 0.
+C: Student 29 with priority 0 added to the queue. Waiting students now = 1. Total requests = 4
+S: Student 11 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+T: Student 22 tutored by Tutor 1. Students tutored now = 2. Total sessions tutored = 2
+S: Student 20 takes a seat. Empty chairs = 0.
+S: Student 4 received help from Tutor 2.
+S: Student 9 found no empty chair. Will try again later.
+T: Student 4 tutored by Tutor 2. Students tutored now = 2. Total sessions tutored = 3
+C: Student 20 with priority 0 added to the queue. Waiting students now = 1. Total requests = 5
+S: Student 22 received help from Tutor 1.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 7 takes a seat. Empty chairs = 0.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+T: Student 20 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 4
+C: Student 7 with priority 0 added to the queue. Waiting students now = 1. Total requests = 6
+S: Student 5 found no empty chair. Will try again later.
+S: Student 20 received help from Tutor 1.
+S: Student 26 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 16 takes a seat. Empty chairs = 0.
+S: Student 29 received help from Tutor 3.
+S: Student 2 found no empty chair. Will try again later.
+C: Student 16 with priority 0 added to the queue. Waiting students now = 1. Total requests = 7
+S: Student 14 found no empty chair. Will try again later.
+T: Student 29 tutored by Tutor 3. Students tutored now = 0. Total sessions tutored = 5
+S: Student 21 found no empty chair. Will try again later.
+S: Student 26 takes a seat. Empty chairs = 0.
+C: Student 26 with priority 0 added to the queue. Waiting students now = 1. Total requests = 8
+S: Student 15 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 3 takes a seat. Empty chairs = 0.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+C: Student 3 with priority 0 added to the queue. Waiting students now = 1. Total requests = 9
+S: Student 1 found no empty chair. Will try again later.
+S: Student 7 received help from Tutor 1.
+T: Student 7 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 6
+S: Student 22 found no empty chair. Will try again later.
+T: Student 16 tutored by Tutor 4. Students tutored now = 1. Total sessions tutored = 7
+S: Student 16 received help from Tutor 4.
+S: Student 11 takes a seat. Empty chairs = 0.
+S: Student 29 found no empty chair. Will try again later.
+C: Student 11 with priority 0 added to the queue. Waiting students now = 1. Total requests = 10
+S: Student 9 found no empty chair. Will try again later.
+S: Student 19 takes a seat. Empty chairs = 0.
+S: Student 4 found no empty chair. Will try again later.
+T: Student 3 tutored by Tutor 2. Students tutored now = 2. Total sessions tutored = 8
+S: Student 18 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+C: Student 19 with priority 0 added to the queue. Waiting students now = 1. Total requests = 11
+S: Student 26 received help from Tutor 5.
+T: Student 26 tutored by Tutor 5. Students tutored now = 2. Total sessions tutored = 9
+S: Student 31 found no empty chair. Will try again later.
+S: Student 3 received help from Tutor 2.
+S: Student 24 takes a seat. Empty chairs = 0.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 25 found no empty chair. Will try again later.
+C: Student 24 with priority 0 added to the queue. Waiting students now = 1. Total requests = 12
+S: Student 27 found no empty chair. Will try again later.
+S: Student 11 received help from Tutor 4.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+T: Student 11 tutored by Tutor 4. Students tutored now = 1. Total sessions tutored = 10
+S: Student 15 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 3 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 4 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+T: Student 19 tutored by Tutor 1. Students tutored now = 0. Total sessions tutored = 11
+S: Student 19 received help from Tutor 1.
+S: Student 29 found no empty chair. Will try again later.
+S: Student 11 found no empty chair. Will try again later.
+S: Student 26 takes a seat. Empty chairs = 0.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+C: Student 26 with priority 1 added to the queue. Waiting students now = 1. Total requests = 13
+S: Student 18 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 4 takes a seat. Empty chairs = 0.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+C: Student 4 with priority 1 added to the queue. Waiting students now = 1. Total requests = 14
+T: Student 24 tutored by Tutor 2. Students tutored now = 1. Total sessions tutored = 12
+S: Student 24 received help from Tutor 2.
+T: Student 26 tutored by Tutor 3. Students tutored now = 0. Total sessions tutored = 13
+S: Student 11 takes a seat. Empty chairs = 0.
+S: Student 26 received help from Tutor 3.
+S: Student 6 found no empty chair. Will try again later.
+C: Student 11 with priority 1 added to the queue. Waiting students now = 1. Total requests = 15
+S: Student 14 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 4 received help from Tutor 2.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+T: Student 4 tutored by Tutor 2. Students tutored now = 0. Total sessions tutored = 14
+S: Student 24 found no empty chair. Will try again later.
+S: Student 2 takes a seat. Empty chairs = 0.
+C: Student 2 with priority 0 added to the queue. Waiting students now = 1. Total requests = 16
+S: Student 30 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 3 takes a seat. Empty chairs = 0.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+C: Student 3 with priority 1 added to the queue. Waiting students now = 1. Total requests = 17
+S: Student 15 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 2 received help from Tutor 1.
+S: Student 29 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+T: Student 2 tutored by Tutor 1. Students tutored now = 0. Total sessions tutored = 15
+S: Student 11 received help from Tutor 2.
+T: Student 11 tutored by Tutor 2. Students tutored now = 0. Total sessions tutored = 16
+S: Student 18 takes a seat. Empty chairs = 0.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+C: Student 18 with priority 0 added to the queue. Waiting students now = 1. Total requests = 18
+S: Student 5 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 6 takes a seat. Empty chairs = 0.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+C: Student 6 with priority 0 added to the queue. Waiting students now = 1. Total requests = 19
+S: Student 22 found no empty chair. Will try again later.
+S: Student 29 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+T: Student 3 tutored by Tutor 1. Students tutored now = 0. Total sessions tutored = 17
+S: Student 25 found no empty chair. Will try again later.
+S: Student 3 received help from Tutor 1.
+S: Student 24 takes a seat. Empty chairs = 0.
+S: Student 18 received help from Tutor 4.
+T: Student 18 tutored by Tutor 4. Students tutored now = 1. Total sessions tutored = 18
+S: Student 32 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+C: Student 24 with priority 1 added to the queue. Waiting students now = 1. Total requests = 20
+S: Student 27 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 29 takes a seat. Empty chairs = 0.
+C: Student 29 with priority 1 added to the queue. Waiting students now = 1. Total requests = 21
+S: Student 13 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+T: Student 24 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 19
+S: Student 14 takes a seat. Empty chairs = 0.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+C: Student 14 with priority 0 added to the queue. Waiting students now = 1. Total requests = 22
+S: Student 22 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 6 received help from Tutor 2.
+S: Student 13 takes a seat. Empty chairs = 0.
+S: Student 7 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+C: Student 13 with priority 0 added to the queue. Waiting students now = 1. Total requests = 23
+S: Student 19 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+T: Student 6 tutored by Tutor 2. Students tutored now = 2. Total sessions tutored = 20
+S: Student 2 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 7 takes a seat. Empty chairs = 0.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+C: Student 7 with priority 1 added to the queue. Waiting students now = 1. Total requests = 24
+S: Student 10 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 25 takes a seat. Empty chairs = 0.
+C: Student 25 with priority 0 added to the queue. Waiting students now = 1. Total requests = 25
+S: Student 27 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 16 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 29 received help from Tutor 5.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 6 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+T: Student 0 tutored by Tutor 5. Students tutored now = 1. Total sessions tutored = 21
+S: Student 12 found no empty chair. Will try again later.
+S: Student 14 received help from Tutor 3.
+S: Student 15 takes a seat. Empty chairs = 0.
+S: Student 30 found no empty chair. Will try again later.
+T: Student 14 tutored by Tutor 3. Students tutored now = 1. Total sessions tutored = 22
+C: Student 15 with priority 0 added to the queue. Waiting students now = 1. Total requests = 26
+S: Student 21 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+T: Student 7 tutored by Tutor 1. Students tutored now = 2. Total sessions tutored = 23
+S: Student 19 found no empty chair. Will try again later.
+S: Student 24 received help from Tutor 1.
+S: Student 13 received help from Tutor 2.
+S: Student 7 received help from Tutor 1.
+S: Student 13 found no empty chair. Will try again later.
+T: Student 13 tutored by Tutor 2. Students tutored now = 1. Total sessions tutored = 24
+S: Student 30 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 16 takes a seat. Empty chairs = 0.
+T: Student 25 tutored by Tutor 6. Students tutored now = 1. Total sessions tutored = 25
+S: Student 28 found no empty chair. Will try again later.
+C: Student 16 with priority 1 added to the queue. Waiting students now = 1. Total requests = 27
+S: Student 18 found no empty chair. Will try again later.
+S: Student 25 received help from Tutor 6.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+T: Student 15 tutored by Tutor 1. Students tutored now = 2. Total sessions tutored = 26
+S: Student 6 takes a seat. Empty chairs = 0.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 15 received help from Tutor 1.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+C: Student 6 with priority 1 added to the queue. Waiting students now = 1. Total requests = 28
+S: Student 31 found no empty chair. Will try again later.
+S: Student 23 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 1 found no empty chair. Will try again later.
+S: Student 9 takes a seat. Empty chairs = 0.
+S: Student 28 found no empty chair. Will try again later.
+C: Student 9 with priority 0 added to the queue. Waiting students now = 1. Total requests = 29
+S: Student 8 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 10 takes a seat. Empty chairs = 0.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+C: Student 10 with priority 0 added to the queue. Waiting students now = 1. Total requests = 30
+S: Student 17 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 16 received help from Tutor 4.
+S: Student 23 found no empty chair. Will try again later.
+S: Student 13 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 34 found no empty chair. Will try again later.
+T: Student 0 tutored by Tutor 4. Students tutored now = 0. Total sessions tutored = 27
+S: Student 23 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 9 received help from Tutor 3.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 13 takes a seat. Empty chairs = 0.
+T: Student 9 tutored by Tutor 3. Students tutored now = 0. Total sessions tutored = 28
+S: Student 15 found no empty chair. Will try again later.
+C: Student 13 with priority 1 added to the queue. Waiting students now = 1. Total requests = 31
+S: Student 1 takes a seat. Empty chairs = 0.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 13 received help from Tutor 2.
+C: Student 1 with priority 1 added to the queue. Waiting students now = 1. Total requests = 32
+S: Student 5 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 8 takes a seat. Empty chairs = 0.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 15 found no empty chair. Will try again later.
+T: Student 0 tutored by Tutor 2. Students tutored now = 1. Total sessions tutored = 29
+S: Student 25 found no empty chair. Will try again later.
+C: Student 8 with priority 0 added to the queue. Waiting students now = 1. Total requests = 33
+S: Student 12 found no empty chair. Will try again later.
+S: Student 21 takes a seat. Empty chairs = 0.
+C: Student 21 with priority 0 added to the queue. Waiting students now = 1. Total requests = 34
+S: Student 22 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 25 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 2 found no empty chair. Will try again later.
+S: Student 34 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 10 received help from Tutor 4.
+S: Student 15 takes a seat. Empty chairs = 0.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 23 found no empty chair. Will try again later.
+S: Student 9 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+C: Student 15 with priority 1 added to the queue. Waiting students now = 1. Total requests = 35
+T: Student 10 tutored by Tutor 4. Students tutored now = 1. Total sessions tutored = 30
+S: Student 2 found no empty chair. Will try again later.
+S: Student 25 found no empty chair. Will try again later.
+S: Student 23 found no empty chair. Will try again later.
+T: Student 8 tutored by Tutor 2. Students tutored now = 2. Total sessions tutored = 31
+S: Student 8 received help from Tutor 2.
+S: Student 9 takes a seat. Empty chairs = 0.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+C: Student 9 with priority 1 added to the queue. Waiting students now = 1. Total requests = 36
+S: Student 35 found no empty chair. Will try again later.
+S: Student 2 takes a seat. Empty chairs = 0.
+S: Student 8 found no empty chair. Will try again later.
+C: Student 2 with priority 1 added to the queue. Waiting students now = 1. Total requests = 37
+S: Student 10 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+T: Student 6 tutored by Tutor 5. Students tutored now = 2. Total sessions tutored = 32
+S: Student 27 found no empty chair. Will try again later.
+S: Student 6 received help from Tutor 5.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 23 found no empty chair. Will try again later.
+S: Student 25 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 19 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 25 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+T: Student 21 tutored by Tutor 1. Students tutored now = 0. Total sessions tutored = 33
+T: Student 9 tutored by Tutor 2. Students tutored now = 1. Total sessions tutored = 34
+S: Student 9 received help from Tutor 2.
+S: Student 21 received help from Tutor 1.
+T: Student 15 tutored by Tutor 4. Students tutored now = 1. Total sessions tutored = 35
+S: Student 15 received help from Tutor 4.
+S: Student 1 received help from Tutor 7.
+S: Student 23 takes a seat. Empty chairs = 0.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+C: Student 23 with priority 0 added to the queue. Waiting students now = 1. Total requests = 38
+S: Student 21 found no empty chair. Will try again later.
+T: Student 0 tutored by Tutor 7. Students tutored now = 1. Total sessions tutored = 36
+S: Student 34 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 2 received help from Tutor 3.
+T: Student 2 tutored by Tutor 3. Students tutored now = 1. Total sessions tutored = 37
+S: Student 19 takes a seat. Empty chairs = 0.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+C: Student 19 with priority 1 added to the queue. Waiting students now = 1. Total requests = 39
+S: Student 35 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+S: Student 25 takes a seat. Empty chairs = 0.
+S: Student 32 found no empty chair. Will try again later.
+T: Student 23 tutored by Tutor 7. Students tutored now = 0. Total sessions tutored = 38
+S: Student 23 received help from Tutor 7.
+C: Student 25 with priority 1 added to the queue. Waiting students now = 1. Total requests = 40
+T: Student 19 tutored by Tutor 1. Students tutored now = 0. Total sessions tutored = 39
+S: Student 19 received help from Tutor 1.
+S: Student 34 takes a seat. Empty chairs = 0.
+T: Student 25 tutored by Tutor 1. Students tutored now = 0. Total sessions tutored = 40
+S: Student 32 found no empty chair. Will try again later.
+S: Student 25 received help from Tutor 1.
+S: Student 22 found no empty chair. Will try again later.
+C: Student 34 with priority 0 added to the queue. Waiting students now = 1. Total requests = 41
+S: Student 36 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 28 takes a seat. Empty chairs = 0.
+S: Student 31 found no empty chair. Will try again later.
+C: Student 28 with priority 0 added to the queue. Waiting students now = 1. Total requests = 42
+S: Student 14 found no empty chair. Will try again later.
+S: Student 36 takes a seat. Empty chairs = 0.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+T: Student 34 tutored by Tutor 4. Students tutored now = 2. Total sessions tutored = 41
+S: Student 10 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+C: Student 36 with priority 0 added to the queue. Waiting students now = 1. Total requests = 43
+S: Student 23 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 22 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 34 received help from Tutor 4.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 23 found no empty chair. Will try again later.
+T: Student 28 tutored by Tutor 5. Students tutored now = 1. Total sessions tutored = 42
+S: Student 17 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 28 received help from Tutor 5.
+S: Student 22 takes a seat. Empty chairs = 0.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+C: Student 22 with priority 1 added to the queue. Waiting students now = 1. Total requests = 44
+S: Student 34 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 27 takes a seat. Empty chairs = 0.
+C: Student 27 with priority 0 added to the queue. Waiting students now = 1. Total requests = 45
+S: Student 5 found no empty chair. Will try again later.
+T: Student 36 tutored by Tutor 5. Students tutored now = 2. Total sessions tutored = 43
+S: Student 23 takes a seat. Empty chairs = 0.
+C: Student 23 with priority 1 added to the queue. Waiting students now = 1. Total requests = 46
+S: Student 27 received help from Tutor 9.
+T: Student 27 tutored by Tutor 9. Students tutored now = 1. Total sessions tutored = 44
+T: Student 22 tutored by Tutor 8. Students tutored now = 2. Total sessions tutored = 45
+S: Student 36 received help from Tutor 5.
+S: Student 12 takes a seat. Empty chairs = 0.
+S: Student 5 found no empty chair. Will try again later.
+C: Student 12 with priority 0 added to the queue. Waiting students now = 1. Total requests = 47
+S: Student 18 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 22 received help from Tutor 8.
+S: Student 36 takes a seat. Empty chairs = 0.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+T: Student 23 tutored by Tutor 9. Students tutored now = 1. Total sessions tutored = 46
+S: Student 5 found no empty chair. Will try again later.
+S: Student 23 received help from Tutor 9.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 14 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 20 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 12 received help from Tutor 10.
+S: Student 28 found no empty chair. Will try again later.
+T: Student 12 tutored by Tutor 10. Students tutored now = 0. Total sessions tutored = 47
+S: Student 27 found no empty chair. Will try again later.
+S: Student 34 found no empty chair. Will try again later.
+C: Student 36 with priority 1 added to the queue. Waiting students now = 1. Total requests = 48
+S: Student 35 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+S: Student 14 takes a seat. Empty chairs = 0.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 34 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+C: Student 14 with priority 1 added to the queue. Waiting students now = 1. Total requests = 49
+S: Student 20 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 30 takes a seat. Empty chairs = 0.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 12 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 37 found no empty chair. Will try again later.
+S: Student 10 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+C: Student 30 with priority 0 added to the queue. Waiting students now = 1. Total requests = 50
+S: Student 34 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 12 takes a seat. Empty chairs = 0.
+S: Student 35 found no empty chair. Will try again later.
+T: Student 36 tutored by Tutor 7. Students tutored now = 2. Total sessions tutored = 48
+S: Student 20 found no empty chair. Will try again later.
+S: Student 36 received help from Tutor 7.
+C: Student 12 with priority 1 added to the queue. Waiting students now = 1. Total requests = 51
+S: Student 31 found no empty chair. Will try again later.
+S: Student 14 received help from Tutor 2.
+S: Student 35 found no empty chair. Will try again later.
+T: Student 14 tutored by Tutor 2. Students tutored now = 1. Total sessions tutored = 49
+S: Student 28 found no empty chair. Will try again later.
+T: Student 30 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 50
+S: Student 10 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 39 found no empty chair. Will try again later.
+S: Student 30 received help from Tutor 1.
+S: Student 40 takes a seat. Empty chairs = 0.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 38 found no empty chair. Will try again later.
+C: Student 40 with priority 0 added to the queue. Waiting students now = 1. Total requests = 52
+S: Student 37 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 34 found no empty chair. Will try again later.
+S: Student 10 takes a seat. Empty chairs = 0.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+C: Student 10 with priority 1 added to the queue. Waiting students now = 1. Total requests = 53
+S: Student 18 found no empty chair. Will try again later.
+S: Student 34 takes a seat. Empty chairs = 0.
+S: Student 17 found no empty chair. Will try again later.
+C: Student 34 with priority 1 added to the queue. Waiting students now = 1. Total requests = 54
+T: Student 40 tutored by Tutor 3. Students tutored now = 1. Total sessions tutored = 51
+S: Student 31 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 40 received help from Tutor 3.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+T: Student 10 tutored by Tutor 5. Students tutored now = 1. Total sessions tutored = 52
+S: Student 38 found no empty chair. Will try again later.
+S: Student 10 received help from Tutor 5.
+S: Student 20 takes a seat. Empty chairs = 0.
+C: Student 20 with priority 1 added to the queue. Waiting students now = 1. Total requests = 55
+T: Student 34 tutored by Tutor 3. Students tutored now = 1. Total sessions tutored = 53
+S: Student 32 found no empty chair. Will try again later.
+S: Student 37 takes a seat. Empty chairs = 0.
+S: Student 38 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+C: Student 37 with priority 0 added to the queue. Waiting students now = 1. Total requests = 56
+S: Student 35 found no empty chair. Will try again later.
+S: Student 39 found no empty chair. Will try again later.
+S: Student 34 received help from Tutor 3.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 8 found no empty chair. Will try again later.
+S: Student 20 received help from Tutor 9.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 27 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 30 found no empty chair. Will try again later.
+T: Student 0 tutored by Tutor 9. Students tutored now = 0. Total sessions tutored = 54
+S: Student 21 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 38 takes a seat. Empty chairs = 0.
+S: Student 41 found no empty chair. Will try again later.
+C: Student 38 with priority 0 added to the queue. Waiting students now = 1. Total requests = 57
+S: Student 42 found no empty chair. Will try again later.
+S: Student 40 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+T: Student 37 tutored by Tutor 9. Students tutored now = 1. Total sessions tutored = 55
+S: Student 37 received help from Tutor 9.
+S: Student 8 takes a seat. Empty chairs = 0.
+C: Student 8 with priority 1 added to the queue. Waiting students now = 1. Total requests = 58
+S: Student 17 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 37 found no empty chair. Will try again later.
+S: Student 32 takes a seat. Empty chairs = 0.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+C: Student 32 with priority 0 added to the queue. Waiting students now = 1. Total requests = 59
+T: Student 38 tutored by Tutor 9. Students tutored now = 2. Total sessions tutored = 56
+S: Student 30 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 38 received help from Tutor 9.
+S: Student 42 takes a seat. Empty chairs = 0.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+C: Student 42 with priority 0 added to the queue. Waiting students now = 1. Total requests = 60
+S: Student 33 found no empty chair. Will try again later.
+S: Student 37 found no empty chair. Will try again later.
+S: Student 8 received help from Tutor 7.
+S: Student 30 takes a seat. Empty chairs = 0.
+C: Student 30 with priority 1 added to the queue. Waiting students now = 1. Total requests = 61
+S: Student 5 found no empty chair. Will try again later.
+T: Student 0 tutored by Tutor 7. Students tutored now = 1. Total sessions tutored = 57
+S: Student 18 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+T: Student 32 tutored by Tutor 2. Students tutored now = 0. Total sessions tutored = 58
+S: Student 39 found no empty chair. Will try again later.
+S: Student 27 takes a seat. Empty chairs = 0.
+S: Student 37 found no empty chair. Will try again later.
+S: Student 28 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 32 received help from Tutor 2.
+C: Student 27 with priority 1 added to the queue. Waiting students now = 1. Total requests = 62
+S: Student 18 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+T: Student 30 tutored by Tutor 8. Students tutored now = 2. Total sessions tutored = 59
+S: Student 31 found no empty chair. Will try again later.
+S: Student 39 takes a seat. Empty chairs = 0.
+C: Student 39 with priority 0 added to the queue. Waiting students now = 1. Total requests = 63
+S: Student 35 found no empty chair. Will try again later.
+T: Student 42 tutored by Tutor 1. Students tutored now = 3. Total sessions tutored = 60
+S: Student 28 takes a seat. Empty chairs = 0.
+C: Student 28 with priority 1 added to the queue. Waiting students now = 1. Total requests = 64
+S: Student 30 received help from Tutor 8.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 40 takes a seat. Empty chairs = 0.
+S: Student 38 found no empty chair. Will try again later.
+C: Student 40 with priority 1 added to the queue. Waiting students now = 1. Total requests = 65
+S: Student 42 received help from Tutor 1.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 21 found no empty chair. Will try again later.
+S: Student 37 found no empty chair. Will try again later.
+T: Student 39 tutored by Tutor 3. Students tutored now = 2. Total sessions tutored = 61
+S: Student 31 takes a seat. Empty chairs = 0.
+S: Student 41 found no empty chair. Will try again later.
+T: Student 27 tutored by Tutor 8. Students tutored now = 2. Total sessions tutored = 62
+T: Student 28 tutored by Tutor 10. Students tutored now = 1. Total sessions tutored = 63
+S: Student 39 received help from Tutor 3.
+S: Student 27 received help from Tutor 8.
+C: Student 31 with priority 0 added to the queue. Waiting students now = 1. Total requests = 66
+S: Student 28 received help from Tutor 10.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 38 found no empty chair. Will try again later.
+S: Student 17 takes a seat. Empty chairs = 0.
+S: Student 42 found no empty chair. Will try again later.
+C: Student 17 with priority 0 added to the queue. Waiting students now = 1. Total requests = 67
+S: Student 37 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 39 found no empty chair. Will try again later.
+S: Student 21 takes a seat. Empty chairs = 0.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+C: Student 21 with priority 1 added to the queue. Waiting students now = 1. Total requests = 68
+S: Student 37 found no empty chair. Will try again later.
+S: Student 39 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+T: Student 17 tutored by Tutor 7. Students tutored now = 2. Total sessions tutored = 64
+S: Student 17 received help from Tutor 7.
+S: Student 41 found no empty chair. Will try again later.
+T: Student 31 tutored by Tutor 9. Students tutored now = 1. Total sessions tutored = 65
+S: Student 31 received help from Tutor 9.
+S: Student 38 takes a seat. Empty chairs = 0.
+C: Student 38 with priority 1 added to the queue. Waiting students now = 1. Total requests = 69
+T: Student 40 tutored by Tutor 6. Students tutored now = 1. Total sessions tutored = 66
+S: Student 5 found no empty chair. Will try again later.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 5 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 33 takes a seat. Empty chairs = 0.
+S: Student 42 found no empty chair. Will try again later.
+C: Student 33 with priority 0 added to the queue. Waiting students now = 1. Total requests = 70
+S: Student 31 found no empty chair. Will try again later.
+S: Student 39 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 40 received help from Tutor 6.
+S: Student 37 takes a seat. Empty chairs = 0.
+C: Student 37 with priority 1 added to the queue. Waiting students now = 1. Total requests = 71
+S: Student 18 found no empty chair. Will try again later.
+T: Student 21 tutored by Tutor 2. Students tutored now = 2. Total sessions tutored = 67
+T: Student 33 tutored by Tutor 1. Students tutored now = 2. Total sessions tutored = 68
+T: Student 38 tutored by Tutor 6. Students tutored now = 2. Total sessions tutored = 69
+S: Student 21 received help from Tutor 2.
+S: Student 17 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 38 received help from Tutor 6.
+S: Student 33 received help from Tutor 1.
+S: Student 5 takes a seat. Empty chairs = 0.
+S: Student 18 found no empty chair. Will try again later.
+S: Student 31 found no empty chair. Will try again later.
+S: Student 35 found no empty chair. Will try again later.
+S: Student 39 found no empty chair. Will try again later.
+C: Student 5 with priority 0 added to the queue. Waiting students now = 1. Total requests = 72
+S: Student 17 found no empty chair. Will try again later.
+T: Student 37 tutored by Tutor 3. Students tutored now = 2. Total sessions tutored = 70
+S: Student 18 takes a seat. Empty chairs = 0.
+T: Student 5 tutored by Tutor 8. Students tutored now = 2. Total sessions tutored = 71
+S: Student 35 found no empty chair. Will try again later.
+C: Student 18 with priority 1 added to the queue. Waiting students now = 1. Total requests = 73
+S: Student 5 received help from Tutor 8.
+S: Student 31 takes a seat. Empty chairs = 0.
+S: Student 39 found no empty chair. Will try again later.
+C: Student 31 with priority 1 added to the queue. Waiting students now = 1. Total requests = 74
+S: Student 33 found no empty chair. Will try again later.
+S: Student 37 received help from Tutor 3.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 17 found no empty chair. Will try again later.
+T: Student 31 tutored by Tutor 7. Students tutored now = 1. Total sessions tutored = 72
+S: Student 5 takes a seat. Empty chairs = 0.
+T: Student 18 tutored by Tutor 10. Students tutored now = 1. Total sessions tutored = 73
+S: Student 35 found no empty chair. Will try again later.
+C: Student 5 with priority 1 added to the queue. Waiting students now = 1. Total requests = 75
+S: Student 18 received help from Tutor 10.
+S: Student 39 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 41 found no empty chair. Will try again later.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 17 takes a seat. Empty chairs = 0.
+S: Student 31 received help from Tutor 7.
+S: Student 32 found no empty chair. Will try again later.
+C: Student 17 with priority 1 added to the queue. Waiting students now = 1. Total requests = 76
+S: Student 39 takes a seat. Empty chairs = 0.
+C: Student 39 with priority 1 added to the queue. Waiting students now = 1. Total requests = 77
+T: Student 5 tutored by Tutor 9. Students tutored now = 2. Total sessions tutored = 74
+S: Student 35 found no empty chair. Will try again later.
+S: Student 41 takes a seat. Empty chairs = 0.
+S: Student 5 received help from Tutor 9.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+S: Student 32 found no empty chair. Will try again later.
+C: Student 41 with priority 0 added to the queue. Waiting students now = 1. Total requests = 78
+T: Student 17 tutored by Tutor 5. Students tutored now = 0. Total sessions tutored = 75
+T: Student 39 tutored by Tutor 9. Students tutored now = 0. Total sessions tutored = 76
+S: Student 39 received help from Tutor 9.
+S: Student 35 takes a seat. Empty chairs = 0.
+C: Student 35 with priority 0 added to the queue. Waiting students now = 1. Total requests = 79
+T: Student 41 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 77
+S: Student 33 found no empty chair. Will try again later.
+S: Student 32 takes a seat. Empty chairs = 0.
+C: Student 32 with priority 1 added to the queue. Waiting students now = 1. Total requests = 80
+S: Student 17 received help from Tutor 5.
+S: Student 42 found no empty chair. Will try again later.
+S: Student 33 found no empty chair. Will try again later.
+T: Student 35 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 78
+S: Student 35 received help from Tutor 1.
+S: Student 41 received help from Tutor 1.
+S: Student 42 takes a seat. Empty chairs = 0.
+S: Student 33 found no empty chair. Will try again later.
+C: Student 42 with priority 1 added to the queue. Waiting students now = 1. Total requests = 81
+S: Student 35 takes a seat. Empty chairs = 0.
+S: Student 41 found no empty chair. Will try again later.
+C: Student 35 with priority 1 added to the queue. Waiting students now = 1. Total requests = 82
+T: Student 32 tutored by Tutor 3. Students tutored now = 1. Total sessions tutored = 79
+S: Student 33 takes a seat. Empty chairs = 0.
+T: Student 42 tutored by Tutor 8. Students tutored now = 2. Total sessions tutored = 80
+S: Student 32 received help from Tutor 3.
+C: Student 33 with priority 1 added to the queue. Waiting students now = 1. Total requests = 83
+S: Student 35 received help from Tutor 7.
+T: Student 35 tutored by Tutor 7. Students tutored now = 1. Total sessions tutored = 81
+S: Student 43 takes a seat. Empty chairs = 0.
+S: Student 44 found no empty chair. Will try again later.
+C: Student 43 with priority 0 added to the queue. Waiting students now = 1. Total requests = 84
+S: Student 45 found no empty chair. Will try again later.
+S: Student 46 found no empty chair. Will try again later.
+S: Student 45 takes a seat. Empty chairs = 0.
+S: Student 44 found no empty chair. Will try again later.
+S: Student 46 found no empty chair. Will try again later.
+C: Student 45 with priority 0 added to the queue. Waiting students now = 1. Total requests = 85
+T: Student 43 tutored by Tutor 2. Students tutored now = 2. Total sessions tutored = 82
+S: Student 43 received help from Tutor 2.
+S: Student 46 takes a seat. Empty chairs = 0.
+S: Student 43 found no empty chair. Will try again later.
+T: Student 33 tutored by Tutor 10. Students tutored now = 2. Total sessions tutored = 83
+S: Student 44 found no empty chair. Will try again later.
+C: Student 46 with priority 0 added to the queue. Waiting students now = 1. Total requests = 86
+S: Student 33 received help from Tutor 10.
+T: Student 45 tutored by Tutor 5. Students tutored now = 2. Total sessions tutored = 84
+S: Student 45 received help from Tutor 5.
+S: Student 43 takes a seat. Empty chairs = 0.
+S: Student 44 found no empty chair. Will try again later.
+S: Student 45 found no empty chair. Will try again later.
+C: Student 43 with priority 1 added to the queue. Waiting students now = 1. Total requests = 87
+T: Student 46 tutored by Tutor 9. Students tutored now = 1. Total sessions tutored = 85
+S: Student 46 received help from Tutor 9.
+S: Student 45 takes a seat. Empty chairs = 0.
+S: Student 44 found no empty chair. Will try again later.
+S: Student 46 found no empty chair. Will try again later.
+C: Student 45 with priority 1 added to the queue. Waiting students now = 1. Total requests = 88
+S: Student 47 found no empty chair. Will try again later.
+S: Student 48 found no empty chair. Will try again later.
+T: Student 43 tutored by Tutor 6. Students tutored now = 2. Total sessions tutored = 86
+S: Student 43 received help from Tutor 6.
+S: Student 44 takes a seat. Empty chairs = 0.
+S: Student 46 found no empty chair. Will try again later.
+C: Student 44 with priority 0 added to the queue. Waiting students now = 1. Total requests = 89
+S: Student 47 found no empty chair. Will try again later.
+S: Student 48 found no empty chair. Will try again later.
+S: Student 47 found no empty chair. Will try again later.
+S: Student 48 found no empty chair. Will try again later.
+T: Student 45 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 87
+S: Student 45 received help from Tutor 1.
+S: Student 46 found no empty chair. Will try again later.
+S: Student 47 takes a seat. Empty chairs = 0.
+S: Student 48 found no empty chair. Will try again later.
+C: Student 47 with priority 0 added to the queue. Waiting students now = 1. Total requests = 90
+S: Student 49 found no empty chair. Will try again later.
+S: Student 46 found no empty chair. Will try again later.
+S: Student 48 found no empty chair. Will try again later.
+T: Student 44 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 88
+S: Student 44 received help from Tutor 1.
+S: Student 48 takes a seat. Empty chairs = 0.
+S: Student 49 found no empty chair. Will try again later.
+C: Student 48 with priority 0 added to the queue. Waiting students now = 1. Total requests = 91
+S: Student 46 found no empty chair. Will try again later.
+T: Student 47 tutored by Tutor 1. Students tutored now = 1. Total sessions tutored = 89
+S: Student 44 found no empty chair. Will try again later.
+S: Student 47 received help from Tutor 1.
+S: Student 49 takes a seat. Empty chairs = 0.
+C: Student 49 with priority 0 added to the queue. Waiting students now = 1. Total requests = 92
+S: Student 46 takes a seat. Empty chairs = 0.
+S: Student 47 found no empty chair. Will try again later.
+C: Student 46 with priority 1 added to the queue. Waiting students now = 1. Total requests = 93
+S: Student 44 found no empty chair. Will try again later.
+T: Student 48 tutored by Tutor 1. Students tutored now = 3. Total sessions tutored = 90
+T: Student 49 tutored by Tutor 2. Students tutored now = 3. Total sessions tutored = 91
+S: Student 49 received help from Tutor 2.
+S: Student 48 received help from Tutor 1.
+S: Student 47 takes a seat. Empty chairs = 0.
+S: Student 49 found no empty chair. Will try again later.
+S: Student 48 found no empty chair. Will try again later.
+S: Student 44 found no empty chair. Will try again later.
+C: Student 47 with priority 1 added to the queue. Waiting students now = 1. Total requests = 94
+T: Student 46 tutored by Tutor 1. Students tutored now = 2. Total sessions tutored = 92
+S: Student 46 received help from Tutor 1.
+S: Student 48 takes a seat. Empty chairs = 0.
+T: Student 47 tutored by Tutor 5. Students tutored now = 1. Total sessions tutored = 93
+C: Student 48 with priority 1 added to the queue. Waiting students now = 1. Total requests = 95
+S: Student 47 received help from Tutor 5.
+S: Student 50 takes a seat. Empty chairs = 0.
+C: Student 50 with priority 0 added to the queue. Waiting students now = 1. Total requests = 96
+S: Student 44 found no empty chair. Will try again later.
+S: Student 49 takes a seat. Empty chairs = 0.
+C: Student 49 with priority 1 added to the queue. Waiting students now = 1. Total requests = 97
+T: Student 48 tutored by Tutor 9. Students tutored now = 4. Total sessions tutored = 94
+T: Student 50 tutored by Tutor 6. Students tutored now = 4. Total sessions tutored = 95
+S: Student 48 received help from Tutor 9.
+S: Student 44 takes a seat. Empty chairs = 0.
+S: Student 50 received help from Tutor 6.
+C: Student 44 with priority 1 added to the queue. Waiting students now = 1. Total requests = 98
+T: Student 49 tutored by Tutor 2. Students tutored now = 1. Total sessions tutored = 96
+S: Student 49 received help from Tutor 2.
+S: Student 50 takes a seat. Empty chairs = 0.
+C: Student 50 with priority 1 added to the queue. Waiting students now = 1. Total requests = 99
+T: Student 44 tutored by Tutor 1. Students tutored now = 2. Total sessions tutored = 97
+S: Student 44 received help from Tutor 1.
+T: Student 50 tutored by Tutor 5. Students tutored now = 1. Total sessions tutored = 98
+S: Student 50 received help from Tutor 5.
+S: Student 42 received help from Tutor 8.
+S: Student 41 takes a seat. Empty chairs = 0.
+C: Student 41 with priority 1 added to the queue. Waiting students now = 1. Total requests = 100
+T: Student 41 tutored by Tutor 9. Students tutored now = 0. Total sessions tutored = 99
+S: Student 41 received help from Tutor 9.
+T: Student 12 tutored by Tutor 4. Students tutored now = 0. Total sessions tutored = 100
+S: Student 12 received help from Tutor 4.
