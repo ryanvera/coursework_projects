@@ -1,0 +1,3 @@
+The goal of this project was to create a file system consistency checker to be performed on file system images of the training operating system, "xv6".
+
+The project required 14 checks for the program to implement. Rules consisted of checking inodes, checking bitmaps, and traversing the directory tree.
