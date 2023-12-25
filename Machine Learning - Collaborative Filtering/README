@@ -1,14 +1,4 @@
-Ryan Vera
-rdv170000
-CS 6375
+The goal of this project was to implement a collaborative filtering algorithm, as known as a recommendation system.
 
-
-This project was complete using Pandas, Scikit-Learn, and Numpy
-Developed using VS Code and Python 3
-
-"src" contains all of the juypter notebooks that is the source code
-    "mem_collab_filter.ipynb" is a jupyter notebook containing the collabortive filtering regressor algorithm
-    "svm_kneighbors.ipynb" contains both the SVM and k-Neighbors models using MNIST data
-    
-"netflix" contains all the raw data used throughout this project
-"results.xlsx" is an Excel file containing the algorithm result tables
+The algorithm implemented is a memory-based algorithm. The data used to train the model was a subset of the Netflix data released for
+research pruposes.
